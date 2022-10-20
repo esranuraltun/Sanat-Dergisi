@@ -1,0 +1,154 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
+
+#topHeader {
+    background-color: #ce7fda;
+}
+
+#topHeader a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#footer a {
+    color: #393939;
+    text-decoration: none;
+}
+
+#footer {
+    background-image: url(../img/art-1349x759.webp);
+    background-size: cover;
+    background-position: center center;
+}
+
+#cta {
+    background-image: url(../img/sanart-dergileri-1349x300.webp);
+}
+
+#bottomFooter {
+    background-color: #ce7fda;
+}
+
+#hakkimizdaBanner {
+    background-image: url('../img/hakkimizda-banner-1000x461.webp');
+    background-size: cover;
+    background-position: bottom center;
+}
+
+#hakkimizdaBanner a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.py-20 {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+#edebiyatBanner {
+    background-image: url(../img/edebiyat-banner-1349x.webp);
+    background-size: cover;
+    background-position: center center;
+}
+
+#sinemaBanner {
+    background-image: url(../img/cinema-banner-1349x899.webp);
+    background-size: cover;
+    background-position: top center;
+}
+#iletisimBanner {
+    background-image: url(../img/iletisim-banner-1349x600.webp);
+    background-size: cover;
+}
+
+#sinemaIcerik a {
+    text-decoration: none;
+    color: #393939;
+}
+
+#sinemaBanner a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#edebiyatBanner a {
+    text-decoration: none;
+    color: #fff;
+}
+#iletisimBanner a {
+    text-decoration: none;
+    color: #fff;
+}
+#edebiyatIcerik a {
+    text-decoration: none;
+    color: #393939;
+}
+#tiyatroIcerik a {
+    text-decoration: none;
+    color: #393939;
+}
+#tiyatroBanner {
+    background-image: url(../img/tiyatro-banner-1349x6.webp);
+    background-size: cover;
+    background-position: center center;
+}
+#tiyatroBanner a {
+    text-decoration: none;
+    color: #fff;
+}
+#etkinliklerIcerik .card:hover {
+    box-shadow: 1px 1px 20px 10px rgba(0, 0, 0, 0.5);
+    border: none;
+    transition: 1.5s;
+}
+#edebiyatIcerik .btn-dark,
+#sinemaIcerik .btn-dark,
+#tiyatroIcerik .btn-dark,
+#sinemaYazi3 .btn-dark,
+#sinemaYazi2 .btn-dark,
+#tiyatroYazi1 .btn-dark,
+#edebiyatYazi1 .btn-dark,
+#sinemaYazi1 .btn-dark,
+#edebiyatYazi2 .btn-dark,
+#tiyatroYazi3 .btn-dark,
+#edebiyatYazi3 .btn-dark {
+    font-size: 12px;
+}
+#banner {
+    background-image: url(../img/anasayfa-banner-1349x6.webp);
+    background-size: cover;
+    background-position: top center;
+}
+#indexIcerik,
+#sinemaYazi3,
+#tiyatroYazi3,
+#edebiyatYazi3,
+#tavsiye,
+#etkinliklerIcerik,
+#tiyatroYazi1,
+#tiyatroIcerik,
+#edebiyatYazi2,
+#edebiyatYazi1,
+#edebiyatIcerik,
+#sinemaYazi2,
+#sinemaYazi1,
+#sinemaIcerik,
+#sayilarimizIcerik,
+#hakkimizdaIcerik,
+#menu,
+#iletisimInfo,
+#iletisimForm {
+    background-color: #f0efeb;
+}
+#indexIcerik a {
+    text-decoration: none;
+    color: #fff;
+}
+.mt-8 {
+    margin-top: 80px;
+}
+#iletisimInfo a{
+    color: #393939;
+}
+#iletisimInfo .bi{
+    font-size: 30px;
+}
